@@ -1,4 +1,4 @@
- 
+  
 # ⌨️ WPM Typing Test
 
 A simple **Typing Speed Test** that measures your words per minute (WPM) and accuracy. Improve your typing skills while tracking your progress!
