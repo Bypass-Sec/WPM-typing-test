@@ -32,3 +32,6 @@ A simple **Typing Speed Test** that measures your words per minute (WPM) and acc
 ## 🎮 How to Play
 
 1. Run the script,
+
+
+# Automated Improvement
