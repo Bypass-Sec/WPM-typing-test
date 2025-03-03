@@ -1,4 +1,4 @@
-11324   
+111324   
 # ⌨️ WPM Typing Test (Incomplete)
 
 A simple **Typing Speed Test** that measures your words per minute (WPM) and accuracy. I2mprove your typing skills while tracking your progress!
