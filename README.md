@@ -1,7 +1,6 @@
-1111324   
-# ⌨️ WPM Typing Test (Incomplete)
+# ⌨️ WPM Typing Test
 
-A simple **Typing Speed Test** that measures your words per minute (WPM) and accuracy. I2mprove your typing skills while tracking your progress!
+A simple **Typing Speed Test** that measures your words per minute (WPM) and accuracy. Improve your typing skills while tracking your progress!
 
 ---
 
@@ -9,8 +8,9 @@ A simple **Typing Speed Test** that measures your words per minute (WPM) and acc
 
 - 📝 **Random sentences** to type for a real test experience.  
 - ⏳ **Time tracking** to calculate accurate WPM.  
-- 🎯 **Accuracy measurement** to see how precise you type.  
+- 🎯 **Accuracy measurement** to see how precisely you type.  
 - 🔄 **Instant results** after completing the test.  
+- 🔁 **Retry option** to practice continuously.
 
 ---
 
@@ -31,7 +31,24 @@ A simple **Typing Speed Test** that measures your words per minute (WPM) and acc
 
 ## 🎮 How to Play
 
-1. Run the script,
+1. Run the script using Python.
+2. A random sentence will be displayed.
+3. Press **Enter** when ready and start typing.
+4. Once you finish, your **WPM and accuracy** will be displayed.
+5. Choose to retry or exit.
 
+---
 
-# Automated Improvement
+## 📌 Requirements
+
+- Python 3.x
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Happy Typing! 🎉
